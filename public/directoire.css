@@ -1,0 +1,880 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 487px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 21px auto 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 546px;
+  margin: 25px 0 0 auto;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 154px;
+  background-image: url("images/PhotoELIRADOKEKIAS.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 20px 8px 22px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 154px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 10px 23px 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 5px auto 0 4px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 0.75rem;
+  margin: 9px auto 0 4px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 0.75rem;
+  margin: 4px 10px 0 4px;
+}
+
+.u-section-1 .u-layout-wrap-2 {
+  width: 546px;
+  margin: -152px auto 0 0;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 154px;
+  background-image: url("images/MSP-Sante-Mental.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 20px 8px 22px;
+}
+
+.u-section-1 .u-layout-cell-4 {
+  min-height: 154px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 10px 23px 0;
+}
+
+.u-section-1 .u-text-5 {
+  font-size: 1.25rem;
+  margin: 5px auto 0 4px;
+}
+
+.u-section-1 .u-text-6 {
+  font-size: 0.75rem;
+  margin: 9px auto 0 4px;
+}
+
+.u-section-1 .u-text-7 {
+  font-size: 0.75rem;
+  margin: 4px 10px 0 4px;
+}
+
+.u-section-1 .u-layout-wrap-3 {
+  width: 546px;
+  margin: 40px auto 60px;
+}
+
+.u-section-1 .u-image-3 {
+  min-height: 154px;
+  background-image: url("images/PhotoELIRADOKEKIAS.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 20px 8px 22px;
+}
+
+.u-section-1 .u-layout-cell-6 {
+  min-height: 154px;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 10px 23px 0;
+}
+
+.u-section-1 .u-text-8 {
+  font-size: 1.25rem;
+  margin: 5px auto 0 4px;
+}
+
+.u-section-1 .u-text-9 {
+  font-size: 0.75rem;
+  margin: 9px auto 0 4px;
+}
+
+.u-section-1 .u-text-10 {
+  font-size: 0.75rem;
+  margin: 4px 10px 0 4px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 613px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 30px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 178px;
+    margin-right: auto;
+    margin-left: 21px;
+  }
+
+  .u-section-1 .u-layout-wrap-2 {
+    margin-top: -313px;
+    margin-right: 0;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-layout-wrap-3 {
+    margin-top: 181px;
+    margin-right: 0;
+    margin-bottom: 57px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 675px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 20px;
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 38px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 159px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 159px;
+  }
+
+  .u-section-1 .u-layout-wrap-2 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-wrap-3 {
+    margin: 25px auto 60px 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 159px;
+  }
+
+  .u-section-1 .u-layout-cell-6 {
+    min-height: 159px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1397px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 18px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 306px;
+    margin-top: 508px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 247px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 149px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-wrap-2 {
+    width: 306px;
+    margin-top: -883px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 306px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 90px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-wrap-3 {
+    width: 306px;
+    margin-top: 471px;
+    margin-left: auto;
+    margin-bottom: 5px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 247px;
+  }
+
+  .u-section-1 .u-layout-cell-6 {
+    min-height: 149px;
+  }
+
+  .u-section-1 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1411px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 60px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 320px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-wrap-2 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-wrap-3 {
+    margin-top: 60px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 320px;
+  }
+
+  .u-section-1 .u-layout-cell-6 {
+    min-height: 100px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 297px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 60px auto 0;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  width: 546px;
+  margin: 21px auto 0 24px;
+}
+
+.u-section-2 .u-image-1 {
+  min-height: 154px;
+  background-image: url("images/PhotoELIRADOKEKIAS.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 20px 8px 22px;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 154px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 10px 23px 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 7px auto 0 4px;
+}
+
+.u-section-2 .u-text-3 {
+  font-size: 0.75rem;
+  margin: 9px auto 0 4px;
+}
+
+.u-section-2 .u-layout-wrap-2 {
+  width: 546px;
+  margin: -152px 0 60px auto;
+}
+
+.u-section-2 .u-image-2 {
+  min-height: 154px;
+  background-image: url("images/MSP-Sante-Mental.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 20px 8px 22px;
+}
+
+.u-section-2 .u-layout-cell-4 {
+  min-height: 154px;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 10px 23px 0;
+}
+
+.u-section-2 .u-text-4 {
+  font-size: 1.25rem;
+  margin: 7px auto 0 4px;
+}
+
+.u-section-2 .u-text-5 {
+  font-size: 0.75rem;
+  margin: 9px auto 0 4px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 467px;
+  }
+
+  .u-section-2 .u-layout-wrap-2 {
+    margin-top: 20px;
+    margin-bottom: 38px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 496px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 43px;
+    margin-left: 34px;
+    margin-right: 34px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: 38px;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 159px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 159px;
+  }
+
+  .u-section-2 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1053px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 45px;
+    margin-left: 29px;
+    margin-right: 29px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    width: 306px;
+    margin-top: 45px;
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 230px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 166px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-layout-wrap-2 {
+    width: 306px;
+    margin-top: 44px;
+    margin-right: auto;
+    margin-bottom: 36px;
+  }
+
+  .u-section-2 .u-image-2 {
+    min-height: 296px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 567px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    min-height: 320px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 292px;
+}
+
+.u-section-3 .u-text-1 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 27px 101px 0;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  width: 546px;
+  margin: 19px auto 0 24px;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 154px;
+  background-image: url("images/IgorNDILA1.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 20px 8px 22px;
+}
+
+.u-section-3 .u-layout-cell-2 {
+  min-height: 154px;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 10px 23px 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 7px auto 0 4px;
+}
+
+.u-section-3 .u-text-3 {
+  font-size: 0.75rem;
+  margin: 9px auto 0 4px;
+}
+
+.u-section-3 .u-layout-wrap-2 {
+  width: 546px;
+  margin: -152px 0 60px auto;
+}
+
+.u-section-3 .u-image-2 {
+  min-height: 154px;
+  background-image: url("images/MSP-Sante-Mental.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-3 {
+  padding: 20px 8px 22px;
+}
+
+.u-section-3 .u-layout-cell-4 {
+  min-height: 154px;
+}
+
+.u-section-3 .u-container-layout-4 {
+  padding: 10px 23px 0;
+}
+
+.u-section-3 .u-text-4 {
+  font-size: 1.25rem;
+  margin: 7px auto 0 4px;
+}
+
+.u-section-3 .u-text-5 {
+  font-size: 0.75rem;
+  margin: 9px auto 0 4px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 411px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: auto;
+    margin-top: 24px;
+    margin-left: -1px;
+    margin-right: -1px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 15px;
+  }
+
+  .u-section-3 .u-layout-wrap-2 {
+    margin-top: 20px;
+    margin-bottom: 24px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 301px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-left: 101px;
+    margin-right: 101px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 159px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 159px;
+  }
+
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1105px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 46px;
+    margin-left: 19px;
+    margin-right: 19px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    width: 306px;
+    margin-top: 55px;
+    margin-left: auto;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 249px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 147px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-layout-wrap-2 {
+    width: 306px;
+    margin-top: 37px;
+    margin-right: auto;
+    margin-bottom: 46px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 288px;
+  }
+
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 108px;
+  }
+
+  .u-section-3 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1175px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: 257px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 44px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 320px;
+  }
+
+  .u-section-3 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-wrap-2 {
+    margin-bottom: 45px;
+  }
+
+  .u-section-3 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 304px;
+}
+
+.u-section-4 .u-text-1 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 30px auto 0;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  width: 546px;
+  margin: 19px auto 0 24px;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 154px;
+  background-image: url("images/PhotoELIRADOKEKIAS.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 20px 8px 22px;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 154px;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 10px 23px 0;
+}
+
+.u-section-4 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 7px auto 0 4px;
+}
+
+.u-section-4 .u-text-3 {
+  font-size: 0.75rem;
+  margin: 9px auto 0 4px;
+}
+
+.u-section-4 .u-layout-wrap-2 {
+  width: 546px;
+  margin: -152px 0 60px auto;
+}
+
+.u-section-4 .u-image-2 {
+  min-height: 154px;
+  background-image: url("images/MSP-Sante-Mental.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 20px 8px 22px;
+}
+
+.u-section-4 .u-layout-cell-4 {
+  min-height: 154px;
+}
+
+.u-section-4 .u-container-layout-4 {
+  padding: 10px 23px 0;
+}
+
+.u-section-4 .u-text-4 {
+  font-size: 1.25rem;
+  margin: 7px auto 0 4px;
+}
+
+.u-section-4 .u-text-5 {
+  font-size: 0.75rem;
+  margin: 9px auto 0 4px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 489px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: 60px;
+  }
+
+  .u-section-4 .u-layout-wrap-2 {
+    margin-top: 20px;
+    margin-bottom: 58px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 500px;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: auto;
+    margin-top: 43px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 36px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 159px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 159px;
+  }
+
+  .u-section-4 .u-layout-wrap-2 {
+    margin-bottom: 60px;
+  }
+
+  .u-section-4 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1049px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: 30px;
+    margin-left: -6px;
+    margin-right: -6px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    width: 306px;
+    margin-top: 40px;
+    margin-left: auto;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 253px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 143px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-layout-wrap-2 {
+    width: 306px;
+    margin-top: 40px;
+    margin-right: auto;
+    margin-bottom: 49px;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 296px;
+  }
+
+  .u-section-4 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1161px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 320px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-layout-wrap-2 {
+    margin-top: 55px;
+    margin-bottom: 55px;
+  }
+}

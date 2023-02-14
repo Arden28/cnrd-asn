@@ -1,0 +1,2 @@
+ssh_name : id_rsa
+ssh_pwd : D^JOXjG;]o)T

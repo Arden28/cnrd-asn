@@ -1,7 +1,7 @@
 {
-    "name": "balajidharma/basic-laravel-admin-panel",
+    "name": "arden28/cnrd-asn",
     "type": "project",
-    "description": "The Baic Laravel Admin Panel - Laravel Admin Boilerplate",
+    "description": "The CNRD website",
     "keywords": ["framework", "laravel", "boilerplate", "admin panel"],
     "license": "MIT",
     "require": {
