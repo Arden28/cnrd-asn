@@ -2,18 +2,14 @@
 <html style="font-size: 16px;" lang="fr"><head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="drépanocytose, santé, congo, brazzaville, antoinette sassou nguesso, cnrd, centre de référence de la drépanocytose, alexis dokiekas">
-    <meta name="description" content="Le Centre National de Référence de la Drépanocytose ‘’Antoinette SASSOU N’GUESSO’’ et un établissement public spécialisé dont la mission principale est celle d’assurer des soins préventifs, curatifs et réadaptationnels en faveur de la drépanocytose ainsi que d’autres maladies génétiques du sang.">
-    <title>Accueil</title>
+    @yield('meta_ref')
+    <title>@yield('page_title') | CNRD</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
     @yield('styles')
     <script class="u-script" type="text/javascript" src="{{ asset('jquery.js') }}" defer=""></script>
     <script class="u-script" type="text/javascript" src="{{ asset('nicepage.js') }}" defer=""></script>
     <meta name="generator" content="Nicepage 4.18.5, nicepage.com">
-    <meta property="og:title" content="Accueil | CNRDr">
-    <meta property="og:description" content="Le Centre National de Référence de la Drépanocytose ‘’Antoinette SASSOU N’GUESSO’’ et un établissement public spécialisé dont la mission principale est celle d’assurer des soins préventifs, curatifs et réadaptationnels en faveur de la drépanocytose ainsi que d’autres maladies génétiques du sang.">
-    <meta property="og:image" content="{{ asset('images/favicon.png')}}">
-    <meta property="og:url" content="www.cnrdrepa-asn.org">
+    @yield('open-graph')
     <link rel="icon" href="{{ asset('images/favicon.png')}}">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
     <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Oswald:200,300,400,500,600,700">

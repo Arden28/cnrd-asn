@@ -1,8 +1,20 @@
 @extends('layouts.master')
 
+@section('meta-ref')
+    <meta name="keywords" content="drépanocytose, santé, congo, brazzaville, antoinette sassou nguesso, cnrd, centre de référence de la drépanocytose, alexis dokiekas">
+    <meta name="description" content="Le Centre National de Référence de la Drépanocytose ‘’Antoinette SASSOU N’GUESSO’’ et un établissement public spécialisé dont la mission principale est celle d’assurer des soins préventifs, curatifs et réadaptationnels en faveur de la drépanocytose ainsi que d’autres maladies génétiques du sang.">
+@endsection
+
 @section('styles')
 
 <link rel="stylesheet" href="{{ asset('propos.css') }}" media="screen">
+@endsection
+
+@section('open-graph')
+    <meta property="og:title" content="A propos de nous | CNRDr">
+    <meta property="og:description" content="Le Centre National de Référence de la Drépanocytose ‘’Antoinette SASSOU N’GUESSO’’ et un établissement public spécialisé dont la mission principale est celle d’assurer des soins préventifs, curatifs et réadaptationnels en faveur de la drépanocytose ainsi que d’autres maladies génétiques du sang.">
+    <meta property="og:image" content="{{ asset('images/favicon.png')}}">
+    <meta property="og:url" content="www.cnrd-asn.org/à-propos-de-nous">
 @endsection
 
 @section('content')
@@ -46,7 +58,7 @@ de 5 ans d’ici à 2030).</i></b>
             <div class="u-container-layout u-similar-container u-container-layout-1">
               <h2 class="u-custom-font u-font-montserrat u-text u-text-custom-color-3 u-text-default u-text-2">01</h2>
               <h5 class="u-custom-font u-font-montserrat u-text u-text-3"><b>La
-sensibilisation, l’information</b>&nbsp; 
+sensibilisation, l’information</b>&nbsp;
               </h5>
               <p class="u-text u-text-4"> Elles sont menées par différents étages du système
 sanitaire, les médias, la société civile à travers les organisations non
@@ -147,7 +159,7 @@ de la formation, la recherche et la coopération&nbsp;</b>
 sera basé sur le financement de l’Etat, des partenaires, des ONG et surtout la
 couverture sanitaire universelle. <br>Le <span style="font-weight: 700;" class="u-text-custom-color-3">CNRDr </span>‘’ Antoinette SASSOU
 N’GUESSO’’ bénéficiera de la subvention étatique et des partenaires ainsi que
-des recettes propres issues des biens et services produits. 
+des recettes propres issues des biens et services produits.
 Il<br> doit être envisagé d’ici à 2028, la
 possibilité d’accéder aux prestations suivantes.&nbsp;<!--[if !supportLists]-->
                 <br>-<span style="font-weight: 700;">Dépistage anté natal</span>;<br> - <span style="font-weight: 700;">Greffes des cellules souches</span>.&nbsp;<br>Le programme national de lutte contre la drépanocytose
@@ -176,7 +188,7 @@ santé et de la population à travers l’Inspection Générale de la Santé, la
 direction des études et de la planification, la direction des maladies non
 transmissibles et le programme national de lutte contre la drépanocytose.
 L’évaluation des activités sera annuelle et à mi parcours un rapport sur les
-performances sera produit. 
+performances sera produit.
 &nbsp; <b>Indicateurs
 de performances&nbsp;:</b>
                 <br>
@@ -224,5 +236,5 @@ de formation et de recherche.&nbsp;
       </div>
     </div>
   </section>
-  
+
 @endsection
